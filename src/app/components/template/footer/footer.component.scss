@@ -1,0 +1,20 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    justify-content: flex-end;
+    z-index: 1;
+    
+    span,
+     strong{
+        font-size: 1.7rem;
+        display: flex;
+        align-items: center;
+    }
+    strong{
+        margin-left: 3px;
+    }
+    i{
+        font-size: 1.7rem;
+        margin: 0px 3px;
+    }
+}

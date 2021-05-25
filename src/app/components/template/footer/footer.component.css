@@ -1,0 +1,29 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  z-index: 1;
+}
+
+.footer span,
+.footer strong {
+  font-size: 1.7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer strong {
+  margin-left: 3px;
+}
+
+.footer i {
+  font-size: 1.7rem;
+  margin: 0px 3px;
+}
+/*# sourceMappingURL=footer.component.css.map */

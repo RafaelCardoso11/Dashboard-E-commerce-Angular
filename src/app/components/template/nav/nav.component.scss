@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    height: 90%;
+    .sidenav{
+        width: 200px;
+        background: #3f51b5;
+      a{
+        font-size: 1.6rem;
+        color: white;
+          i{
+              margin-right: 15px;
+          }
+      }
+    }
+    .content{
+        padding: 15px;
+        background: white;
+    }
+}
