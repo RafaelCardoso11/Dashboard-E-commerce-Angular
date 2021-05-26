@@ -15,6 +15,10 @@
 ### - Observables
 ### - dependency injection.
 
+### - Outros
+  - Material designer
+  - Material icons
+
 # Frontend
 
 Este projeto foi gerado com  [Angular CLI](https://github.com/angular/angular-cli) CLI versão 11.2.12.
@@ -25,5 +29,9 @@ Para inicializar o projeto, installe o [NPM](https://www.npmjs.com/), e rode o c
 
 Já no seu navegador, entre na rede local [localhost:4200](http://localhost:4200/)
 
+## Imagens do projeto
+![Produtos](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/Dashboard2.png)
+![Criando o produto](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/dashboard1.png)
+![API](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/DashboardApi.png)
 
 #### Projeto criado juntamente com a mentoria da [Cod3r academy](https://www.cod3r.com.br/), durante um curso de altíssimo nível sobre o essencial do Angular.
