@@ -30,8 +30,13 @@ Para inicializar o projeto, installe o [NPM](https://www.npmjs.com/), e rode o c
 Já no seu navegador, entre na rede local [localhost:4200](http://localhost:4200/)
 
 ## Imagens do projeto
-![Produtos](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/Dashboard2.png)
-![Criando o produto](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/dashboard1.png)
+
+### API
 ![API](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/DashboardApi.png)
+### Produtos
+![Produtos](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/Dashboard2.png)
+### Criando o produto
+![Criando o produto](https://github.com/RafaelCardoso11/Dashboard-E-commerce-Angular/blob/master/dashboard1.png)
+
 
 #### Projeto criado juntamente com a mentoria da [Cod3r academy](https://www.cod3r.com.br/), durante um curso de altíssimo nível sobre o essencial do Angular.
