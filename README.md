@@ -1,6 +1,7 @@
 # Dashboard criado para absorver as principais funcionalidades do Framework Angular.
 
 ## No Projeto foi utilizado:
+### - API - REST/RESTFULL
 ### - Directivas
 - Atributos/estruturais
 ### - Pipes
